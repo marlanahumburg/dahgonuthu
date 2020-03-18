@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngohfee.quintysmits.com/sitemap.xml
